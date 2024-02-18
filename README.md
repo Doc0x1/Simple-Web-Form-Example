@@ -2,4 +2,4 @@
 
 ## Running the example
 
-To run the example, open the `welcome.html` file in your browser.
+To run the example, open the `index.html` file in your browser.
